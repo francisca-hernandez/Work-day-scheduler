@@ -1,7 +1,6 @@
 # Work Day Scheduler Starter Code
 
-## As an employee with a busy schedule I want to add importatn events to a daily planner
-## So that I can manage my time effectively.
+## As an employee with a busy schedule I want to add important events to a daily planne so that I can manage my time effectively.
 
 ## GIVEN I am using a daily planner to create a schedule
 * WHEN I open the planner
@@ -19,12 +18,13 @@
 
 # Built With
 * HTML
-* CSS*
-* JavaScrip*
-* Bootstrap*
+* CSS
+* JavaScript
+* Bootstrap
 
 
 * Screenshot 
-![(\assets\Screenshot 2022-08-18 100713.png)]
+![ScreenShot](/assets/Screenshot%202022-08-18%20100713.png)
 
 ## Website
+
