@@ -1,6 +1,6 @@
 # Work Day Scheduler Starter Code
 
-## As an employee with a busy schedule I want to add important events to a daily planne so that I can manage my time effectively.
+## As an employee with a busy schedule I want to add important events to a daily planner so that I can manage my time effectively.
 
 ### As an employee with a busy schedule I want to add importatn events to a daily planner
 ### So that I can manage my time effectively.
