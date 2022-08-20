@@ -1,9 +1,9 @@
 # Work Day Scheduler Starter Code
 
-## As an employee with a busy schedule I want to add importatn events to a daily planner
-## So that I can manage my time effectively.
+### As an employee with a busy schedule I want to add importatn events to a daily planner
+### So that I can manage my time effectively.
 
-## GIVEN I am using a daily planner to create a schedule
+### GIVEN I am using a daily planner to create a schedule
 * WHEN I open the planner
 * THEN the current day is displayed at the top of the calendar
 * WHEN I scroll down
